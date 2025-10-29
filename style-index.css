@@ -1,0 +1,28 @@
+body {
+    background: rgb(255, 213, 236);
+    color: rgb(255, 99, 185);
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    background-color: white;
+}
+
+a {
+    color: rgb(255, 99, 185);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 20, 149);
+    text-decoration:underline
+}
+
+ul {
+    list-style-image: url('happy-bear.webp');
+}
