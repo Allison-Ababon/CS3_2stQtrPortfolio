@@ -7,6 +7,7 @@ body {
 
 h1 {
     font-size: 50px;
+    text-align: center;
 }
 
 p {
@@ -19,10 +20,14 @@ a {
 }
 
 a:hover {
-    color: rgb(255, 20, 149);
+    color: rgb(255, 160, 92);
     text-decoration:underline
 }
 
 ul {
     list-style-image: url('happy-bear.webp');
+}
+
+li {
+    color: rgb(255, 0, 140);
 }
